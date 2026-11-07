@@ -16,7 +16,7 @@ h1{
 h2{
   margin: 1vw;
 }
-#email{
+.email{
   text-decoration: none;
   color: black;
 }
