@@ -16,8 +16,9 @@ h1{
 h2{
   margin: 1vw;
 }
-.anchor{
-  margin: 1vw;
+#mail{
+  text-decoration: none;
+  color: black;
 }
 #navBar {
  padding: 5px;
@@ -39,6 +40,7 @@ h2{
   color: black;
 }
 .anchor{
+  margin: 1vw;
   display: block;
   text-decoration: none;
   color: red;
