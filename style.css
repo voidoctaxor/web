@@ -37,3 +37,9 @@ body {
   font-weight: bold;
   color: black;
 }
+.anchor{
+  margin: 1vw;
+  display: block;
+  text-decoration: none;
+  color: blue;
+}
