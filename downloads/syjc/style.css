@@ -5,19 +5,19 @@
   font-family: "Ubuntu", Arial, sans-serif;
   user-select: none;
 }
-h1{
+h1 {
   text-align: center;
   margin: 1vh;
   text-decoration: underline;
 }
-h2{
+h2 {
   margin: 1vw;
 }
-.anchor{
+.anchor {
   margin: 1vw;
 }
 #navBar {
- padding: 5px;
+  padding: 5px;
   border: 2px solid black;
   border-radius: 10px;
 }
@@ -26,7 +26,7 @@ h2{
   list-style: none;
   justify-content: space-between;
 }
-.nav{
+.nav {
   background-color: lightblue;
   border: 1px solid pink;
   border-radius: 10px;
@@ -35,21 +35,21 @@ h2{
   font-weight: bold;
   color: black;
 }
-.anchor{
+.anchor {
   display: block;
   text-decoration: none;
   color: red;
 }
-.syJC{
+.syJC {
   display: inline-block;
   text-decoration: none;
   color: black;
-  
+
 }
-section{
+section {
   display: block;
 }
-p{
+p {
   font-weight: bold;
   display: block;
 }
