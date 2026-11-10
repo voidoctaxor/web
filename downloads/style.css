@@ -24,6 +24,7 @@ h2 {
   padding: 5px;
   border: 2px solid black;
   border-radius: 10px;
+  margin: 1vw;
 }
 #ul {
   display: flex;
@@ -36,23 +37,16 @@ h2 {
   border-radius: 10px;
   padding: 2px;
   text-decoration: none;
-  color: black;
   font-weight: bold;
+  color: black;
 }
 .anchor {
-  display: block;
+  display: inline;
   text-decoration: none;
   color: red;
 }
-.syJC {
-  display: inline-block;
-  text-decoration: none;
-}
-section {
-  display: block;
-}
+
 p {
   margin: 1vw;
   font-weight: bold;
-  display: block;
 }
