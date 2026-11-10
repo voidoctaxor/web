@@ -5,28 +5,30 @@
   font-family: "Ubuntu", Arial, sans-serif;
   user-select: none;
 }
-h1{
+body {
+  background-color: white;
+  color: black;
+}
+h1 {
   text-align: center;
   margin: 1vh;
   text-decoration: underline;
 }
-h2{
-  margin: 1vw;
-}
-.anchor{
+h2 {
   margin: 1vw;
 }
 #navBar {
- padding: 5px;
+  padding: 5px;
   border: 2px solid black;
   border-radius: 10px;
+  margin: 1vw;
 }
 #ul {
   display: flex;
   list-style: none;
   justify-content: space-between;
 }
-.nav{
+.nav {
   background-color: lightblue;
   border: 1px solid pink;
   border-radius: 10px;
@@ -35,21 +37,16 @@ h2{
   font-weight: bold;
   color: black;
 }
-.anchor{
-  display: block;
+.anchor {
   text-decoration: none;
   color: red;
 }
-.fyJC{
-  display: inline-block;
+
+p {
+  margin: 1vw;
+  /* font-weight: bold; */
+}
+.fyJC {
+  color: blue;
   text-decoration: none;
-  color: black;
-  
-}
-section{
-  display: block;
-}
-p{
-  font-weight: bold;
-  display: block;
 }
