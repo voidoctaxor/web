@@ -5,6 +5,10 @@
   font-family: "Ubuntu", Arial, sans-serif;
   user-select: none;
 }
+body {
+  background-color: white;
+  color: black;
+}
 h1 {
   text-align: center;
   margin: 1vh;
@@ -19,6 +23,7 @@ h2 {
 #navBar {
   padding: 5px;
   border: 2px solid black;
+  background-color: white;
   border-radius: 10px;
 }
 #ul {
@@ -33,7 +38,7 @@ h2 {
   padding: 2px;
   text-decoration: none;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 .anchor {
   display: block;
@@ -43,13 +48,13 @@ h2 {
 .syJC {
   display: inline-block;
   text-decoration: none;
-  color: black;
-
+  color: blue;
 }
 section {
   display: block;
 }
 p {
+  margin: 1vw;
   font-weight: bold;
   display: block;
 }
