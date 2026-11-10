@@ -39,7 +39,7 @@ body {
 }
 .anchor{
   margin: 1vw;
-  display: block;
+  display: inline;
   text-decoration: none;
   color: blue;
 }
