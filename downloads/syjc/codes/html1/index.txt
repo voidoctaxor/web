@@ -37,11 +37,6 @@ STUDENT INFORMATION MARKS OF INFORMATION TECHNOLOGY STUDENTS
 STUDENT INFORMATION MARKS OF ELECTRONICS STUDENTS
 </a>
 </p>
-<p>
-<a href="https://www.instagram.com/octaxor">
-IG
-</a>
-</p>
 </font>
 </body>
 </html>
