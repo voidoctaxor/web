@@ -23,7 +23,7 @@ Octa<sup><font size="2">TM</font></sup> Co. Pvt. Ltd.
 For Home Click The Image!
 </p>
 <a href="index.html">
-<img src="win.jpg" width="200" align="right" alt="Home">
+<img src="41w.jpg" width="200" align="right" alt="Home">
 </a>
 </body>
 </html>
