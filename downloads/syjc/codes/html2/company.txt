@@ -18,7 +18,7 @@ Assembled In India
 </font>
 </p>
 <hr>
-<img src="win.jpg" width="200" align="right" alt="Octa">
+<img src="41w.jpg" width="200" align="right" alt="Octa">
 <p>
 <i>
 <font color="black" size="6">
