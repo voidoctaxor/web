@@ -24,7 +24,6 @@ public:
         cout<<"NUMERATOR / DENOMINATOR : "<< num << " / " << den << endl;
     }
 
-    /* WANT TO ASK QUESTION
     Ratio(int a,int b) {
         cout << "\nFOR TWO PARAMETER CONSTUCTOR" << endl;
         num = a;
@@ -32,14 +31,14 @@ public:
         cout << "FRACTIONAL EQUIVALENT" << endl;
         cout<<"NUMERATOR / DENOMINATOR : "<< num << " / " << den << endl;
     }
-    */
+
 
 };
 
 int main () {
     Ratio();
     Ratio(9);
-    //Ratio(22,7);
+    Ratio(22,7);
 
     cout << "\nAMAN DINESH YADAV" << endl;
 
